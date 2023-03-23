@@ -8,3 +8,8 @@
 	url = https://github.com/mnwright/bnnsurvival
 	shallow = true
 	registered = true
+[submodule "lmmot"]
+	path = lmmot
+	url = https://github.com/cran/lmmot
+	shallow = true
+	registered = true

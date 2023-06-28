@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bnnSurvival"]
 	path = bnnSurvival
 	url = https://github.com/mnwright/bnnsurvival
-	shallow = true
-	registered = true
 [submodule "lmmot"]
 	path = lmmot
 	url = https://github.com/cran/lmmot
-	shallow = true
-	registered = true
